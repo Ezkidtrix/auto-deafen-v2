@@ -12,5 +12,4 @@ Go into your discord user settings, find "system", find "custom keybinds" and th
 2. All Numbers Keys
 3. All Single Letter Keys
 4. All Modifier Keys (ex. Insert, PageUp)
-
 #### Any other keys not listed are most likely not compatible
