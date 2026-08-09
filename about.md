@@ -9,7 +9,6 @@ Go into your discord user settings, find "system", find "custom keybinds" and th
 
 ### Also, just as a note, here are all the keys it works with:
 1. All Function (F) Keys
-2. All Numbers Keys
 3. All Single Letter Keys
 4. All Modifier Keys (ex. Insert, PageUp)
 #### Any other keys not listed are most likely not compatible
